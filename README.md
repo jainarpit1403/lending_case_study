@@ -7,29 +7,17 @@ EDA is used to understand banking and financial services data and how data is us
 
 ## Dependencies
 
-To run this code, you'll need the following dependencies:
-- Python 3.7+
-- Pandas 1.0+
-- Matplotlib 3.1+
-- Seaborn 0.9+
+To run this code, you'll need the following software to be downloaded:
 
-OR
-
-If you have the Jupyter Notebook then the dependencies will already been install. If not then download the below software
 - Anaconda Navigator 2.4.0
-    - Jupyter Notebook 6.5.2
+- Jupyter Notebook 6.5.2
 
 ## Installation and Setup
 1. clone the repository:
 git clone https://github.com/jainarpit1403/lending_case_study.git
-2. Install the required dependencies:
-pip install -r requirements.txt
-
-OR
 
 2. Install the Anaconda Navigator 2.4.0 software
 
-3. Data set 
 
 ## Table of Contents
 
@@ -104,8 +92,6 @@ To enhance your understanding of the domain, it is recommended to research risk 
 - Anaconda Navigator 2.4.0
 - Jupyter Notebook 6.5.2
 - Python 
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
